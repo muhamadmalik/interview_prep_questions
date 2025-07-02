@@ -1,0 +1,1 @@
+1. Common JavaScript questions related to closures, hoisting, const vs let vs var, and more.

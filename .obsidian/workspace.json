@@ -4,20 +4,137 @@
     "type": "split",
     "children": [
       {
-        "id": "f26a19d29ec4b81d",
+        "id": "50fe7b9583d165e9",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6386c582c53860",
+            "id": "419a5dcc161ff0de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/DSA Questions Answers.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "DSA Questions Answers"
+            }
+          },
+          {
+            "id": "92e08d8ddebf1fe3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/DSA Questions Answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA Questions Answers"
+            }
+          },
+          {
+            "id": "488745ac62537252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/LinkedList Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LinkedList Notes"
+            }
+          },
+          {
+            "id": "f6ee0265f8dbe82d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/DSA Questions Answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA Questions Answers"
+            }
+          },
+          {
+            "id": "6149330e94a92a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/dsa and algo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "dsa and algo"
+            }
+          },
+          {
+            "id": "c2a13087b065707a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/DSA Questions Answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA Questions Answers"
+            }
+          },
+          {
+            "id": "72ab0bac54cea2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOP Interview Questions"
+            }
+          },
+          {
+            "id": "ed8fcb24c8ce8b91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OOP Interview Questions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OOP Interview Questions"
+            }
+          },
+          {
+            "id": "618004ac6c8d8c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Structues & Algorithms/DSA Questions Answers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSA Questions Answers"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -74,7 +191,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f82082d988a281e4",
@@ -90,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Database Interview Questions and Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +217,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Database Interview Questions and Answers"
             }
           },
           {
@@ -109,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Topics/Others Experience/Reddit Post.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Reddit Post"
             }
           },
           {
@@ -138,20 +255,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Topics/Others Experience/Reddit Post.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Reddit Post"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,15 +281,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49b3132974ea81fb",
+  "active": "c2a13087b065707a",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Topics/Networking",
-    "Topics/Operating System",
-    "Topics/Databases",
-    "Topics/System Design",
-    "Topics/Data Structures & Algorithms",
-    "Topics/Object-Oriented Programming",
-    "Topics"
+    "Data Structues & Algorithms/LinkedList Notes.md",
+    "Data Structues & Algorithms/dsa and algo.md",
+    "Data Structues & Algorithms/DSA Questions Answers.md",
+    "Data Structues & Algorithms/interview questions.md",
+    "OOP Interview Questions.md",
+    "Untitled.canvas",
+    "Javascript questions/JavaScript_Web_React_Interview_Questions.md",
+    "Web Development Interview Questions and Answers (JS, React, Node.js).md",
+    "DSA.md",
+    "Topics/Data Structures & Algorithms/Untitled.md",
+    "questions.md",
+    "Data Structues & Algorithms",
+    "2025-07-01.md",
+    "DOC-20220922-WA0003..pdf",
+    "Javascript questions/questions.md",
+    "Database Interview Questions and Answers.md",
+    "Javascript questions",
+    "Topics/Data Structures & Algorithms/DSA Questions.md",
+    "Topics/Databases/Database Questions.md",
+    "Topics/System Design/system design questions to practice.md",
+    "Interview Preparationn.md",
+    "Pasted image 20250305105452.png",
+    "Pasted image 20250420074014.png",
+    "Topics/Fresh Graduates tests/ArbiSoft/2023 Fresh Graduate Test.md",
+    "Topics/Language Questions/Javascript Questions.md",
+    "Topics/Behavioral Interview Questions/Behavioral Questions.md",
+    "Topics/Object-Oriented Programming/OOP Questions.md",
+    "Topics/Object-Oriented Programming/OOP Coding Assesment.md",
+    "OS, Concurrency, and Networking Interview Questions.md",
+    "Untitled",
+    "2025-04-20.md",
+    "Interview Preparation.md",
+    "Topics/Others Experience/LinkedIn Post.md",
+    "Topics/Fresh Graduates tests/ArbiSoft",
+    "Topics/Fresh Graduates tests",
+    "Topics/Language Questions",
+    "Topics/Others Experience",
+    "Topics/Behavioral Interview Questions",
+    "Topics/Networking"
   ]
 }
